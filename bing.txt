@@ -1,0 +1,7 @@
+payload:
+  - '+.bing.com'
+  - '+.r.bing.com'
+  - '+.www.bing.com'
+  - '+.cn.bing.com'
+  - '+.edgeservices.bing.com'
+  - '+.sydney.bing.com'
